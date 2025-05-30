@@ -1,1 +1,1 @@
-WEB LINK : EcomSite.pythonanywhere.com
+WEB LINK : https://ecomsite.pythonanywhere.com/loginuser?next=/
